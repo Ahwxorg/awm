@@ -1,0 +1,2 @@
+# awm
+awesome window manager
