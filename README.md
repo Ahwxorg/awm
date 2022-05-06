@@ -1,2 +1,2 @@
 # awm
-awesome window manager
+awesome window manager written in C
